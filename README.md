@@ -9,3 +9,6 @@
 2. Installer le  packages: `npm install`
 3. Demmarer le serveur: `node run dev`
 4. Rendez vous sur votre navigateur : `http://localhost:8080`
+
+
+[Sources du tutoriel](https://www.grafikart.fr/formations/webpack/react-hot-reload)
